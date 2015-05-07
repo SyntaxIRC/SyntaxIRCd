@@ -1,4 +1,4 @@
-ircd-chatd install howto
+ircd-syntax install howto
 ====
 
     libtoolize --ltdl
